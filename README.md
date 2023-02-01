@@ -1,1 +1,3 @@
-# CS4310-Project-01
+# Noe Rivera
+#
+# The screencast software used to record the video was OBS 
